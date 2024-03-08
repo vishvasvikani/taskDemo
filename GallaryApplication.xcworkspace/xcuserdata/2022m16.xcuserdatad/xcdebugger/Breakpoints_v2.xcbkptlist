@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "40721FA3-6EE2-4175-ACC2-1CC87A61A350"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DB26E9B2-FEF8-43AC-8AD3-BB4E47534E89"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Controllers/GoogleSignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "67"
+            endingLineNumber = "67"
+            landmarkName = "btnGoogleSignInTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DB26E9B2-FEF8-43AC-8AD3-BB4E47534E89 - f2efd29309bcecf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "240">
+               </Location>
+               <Location
+                  uuid = "DB26E9B2-FEF8-43AC-8AD3-BB4E47534E89 - f2efd29309bcecf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "236">
+               </Location>
+               <Location
+                  uuid = "DB26E9B2-FEF8-43AC-8AD3-BB4E47534E89 - f2efd29309bcecf6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "64"
+                  endingLineNumber = "64"
+                  offsetFromSymbolStart = "264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "03500266-91B1-4ABC-A193-602F925F1C1F"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Controllers/GoogleSignInVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "62"
+            endingLineNumber = "62"
+            landmarkName = "btnGoogleSignInTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "03500266-91B1-4ABC-A193-602F925F1C1F - 5a58c7a21e304f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "40">
+               </Location>
+               <Location
+                  uuid = "03500266-91B1-4ABC-A193-602F925F1C1F - f2efd29309bced7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "92">
+               </Location>
+               <Location
+                  uuid = "03500266-91B1-4ABC-A193-602F925F1C1F - 5a58c7a21e304f36"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "59"
+                  endingLineNumber = "59"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "03500266-91B1-4ABC-A193-602F925F1C1F - f2efd29309bced7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "60">
+               </Location>
+               <Location
+                  uuid = "03500266-91B1-4ABC-A193-602F925F1C1F - f2efd29309bced7a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.GIDSignInResult&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in GallaryApplication.GoogleSignInVC.btnGoogleSignInTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "GallaryApplication"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/2022m16/iCloud%20Drive%20(Archive)%20-%201/Desktop/Vishvas&apos;s%20Files/Swift_Learning/GallaryApplication/GallaryApplication/Controllers/GoogleSignInVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "60"
+                  endingLineNumber = "60"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EDC09F6B-20B3-4BDB-B6BB-6D04A6675F1B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Controllers/ViewModel/ProfilePageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "ProfilePageVM"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "65E0AC98-4C21-479F-9CDF-AC14C45FEB5A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Controllers/ViewModel/ProfilePageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "listRow(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "52A80C81-B7AC-4A06-9BDE-1D2B80F8FB14"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Controllers/ViewModel/ProfilePageVM.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "48"
+            endingLineNumber = "48"
+            landmarkName = "numberOfListRow()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D6D6B63C-4CF8-4C99-8104-2BFCD5EB207C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Controllers/ProfilePageVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "83"
+            endingLineNumber = "83"
+            landmarkName = "collectionView(_:numberOfItemsInSection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9FD8556A-8A74-4E65-8F9E-0BAB35431A9D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GallaryApplication/Views/XIBs/CollectionView/CellGallary.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "setUp()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
